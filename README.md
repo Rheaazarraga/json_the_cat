@@ -1,4 +1,4 @@
-#json_the_cat
+# json_the_cat
 
 ### Implement a terminal program that returns a cat breed entered by the user using node's request module and [thecatAPI](https://thecatapi.com/) to access breed descriptions.
 
